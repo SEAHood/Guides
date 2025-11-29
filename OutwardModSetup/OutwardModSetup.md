@@ -1,4 +1,4 @@
-# Outward Mod Setup
+# Outward Definitive Edition Mod Setup
 
 This is mainly for the Steam version but it's probably applicable to others
 
