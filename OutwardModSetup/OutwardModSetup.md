@@ -25,8 +25,8 @@ For some reason Thunderstone can't figure out where the Definitive version insta
 
 ## Get the mods
 For all of these just choose latest version and install with dependencies if asked
-- Raid_Mode by SpicerXD (enables more than 2 player coop)
-- Sinais_Utility_Pack by sinai-dev (primarily gets rid of horrible smooth camera)
+- **Raid_Mode** by SpicerXD *(enables more-than-2-player coop)*
+- **Sinais_Utility_Pack** by sinai-dev *(primarily gets rid of horrible smooth *camera)
 
 ## Launch the game
 You can launch the game with mods by clicking `Modded` at the top with the play button, alternatively you can make Steam launch it modded by doing the following:
